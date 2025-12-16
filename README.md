@@ -181,6 +181,4 @@ This project reflects **core Spring concepts used in real-world Java web applica
 * Add unit and integration tests
 * Implement JWT-based authentication
 
----
-
 ```
