@@ -5,6 +5,7 @@
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?logo=thymeleaf&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?logo=springsecurity&logoColor=white)
 
+
 ---
 
 ## Table of Contents
@@ -25,7 +26,7 @@
 
 ## Overview
 
-This project is a **secure Quiz Web Application** built using **Spring Boot, Spring MVC, Thymeleaf, and Spring Security**.  
+This project is a **secure Quiz Web Application** developped using **Spring Boot, Spring MVC, Thymeleaf, and Spring Security**.  
 It demonstrates how to create a structured, secure, and functional web application with in-memory management of users and questions.
 
 ---
